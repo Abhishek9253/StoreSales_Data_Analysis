@@ -1,4 +1,4 @@
-# Store_Sales_Data_Analysis(Intractive Dashboard in Excel)
+# Store_Sales_Data_Analysis(Interactive Dashboard in Excel)
 ## Objective
 The store wants to create an annual sales report for 2022 to understand their customers and enhance their sales in future.
 ## Intractive Dashboard
